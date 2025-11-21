@@ -45,16 +45,7 @@ galaxy-classification/
 ├── galaxy10_training.py         # Main training script
 │
 │
-├── baseline_models/              
-│   ├── README.md
-│   ├── resnet34_multitask.py
-│   ├── train_resnet34.py
-│   ├── densenet_multitask.py
-│   ├── train_densenet.py
-│   ├── vit_multitask.py
-│   ├── train_vit.py
-│   ├── swin_multitask.py
-│   └── train_swin.py
+├── baseline_models/  .....            
 │
 └── hk_distance_experiments/     
     └── train_hk_dr17.py
